@@ -36,7 +36,7 @@
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/skillbridge.git
+   git clone https://github.com/MiladAtef/skillbridge.git
    cd skillbridge
    ```
 
